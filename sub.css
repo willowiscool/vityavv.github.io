@@ -24,7 +24,7 @@ p, li {
 	font-family: "Roboto Mono", monospace;
 }
 p {
-	margin: 0 4%;
+	margin: 0 4% 4% 4%;
 }
 a {
 	color: black;
